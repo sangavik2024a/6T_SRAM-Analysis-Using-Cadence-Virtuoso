@@ -1,2 +1,12 @@
-# 6T_SRAM-Analysis-Using-Cadence-Virtuoso
-Cadence Virtuoso based SRAM design project analyzing read/write stability, static noise margin (SNM), delay, and power optimization.
+## Overview
+
+This project analyzes the performance of a 6T SRAM cell using Cadence Virtuoso.
+
+The study focuses on:
+
+- Read Stability
+- Write Ability
+- Static Noise Margin (SNM)
+- Power Consumption
+- Propagation Delay
+- Transistor Sizing Optimization
